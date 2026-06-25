@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "1.0.1 Release",
-  "pub_date": "2026-06-22T12:04:24-07:00",
+  "version": "1.0.2",
+  "notes": "1.0.2 Release",
+  "pub_date": "2026-06-23T15:22:24-07:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0U4MG82NUloVUZTdnpwUEFoTHJWaERLZ3VwaE1PaDd3ZTZ2NmNUOCttbGttZlZ4aDZLR2ptdHd5SGlmZ3JjRVNBVUZ3emsvQTdwci8xUmV1Q3F1Y3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTU0OTc1CWZpbGU6RVotSVBfMS4wLjFfeDY0LXNldHVwLmV4ZQpFSXV0QVJlcWkrYm15cFp2THZFRmtSR0RjeTZPM0hPMWFDRk5uSHJDQTZWRWFPeTRwRHpXWHQvSmtha3NRSERkOHhWdC9LR3FJY1NaTUVLYW10bCtCZz09Cg==",
-      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.1/EZ-IP_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T01DY2RsSmRid2tCTkQ3ZXFZVWR5Z3AydE80VVJ2emhkcnBvYit5U1FVSExSMXZLeGdUbHZkVkRFcWsyNmk3RUlMYjhMZTNXcWxzTThsbCtJdEhOY3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzU1MDg2CWZpbGU6RVotSVBfMS4wLjJfeDY0LXNldHVwLmV4ZQpoRWpLOVBKQTJNTjdGMGFqbXBjZjJZV1RsaDBtd1pNNDI3MG56L0RhUWpsTzJjRi9ka3UxTkkvNS8wM0swWFNzdG1zT0E2QVU3TE04MzgrM2pGUWlEdz09Cg==",
+      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.2/EZ-IP_1.0.2_x64-setup.exe"
     }
   }
 }

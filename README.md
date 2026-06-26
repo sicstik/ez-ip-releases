@@ -1,4 +1,10 @@
-# EZ-IP
+## Download EZ-IP
+
+Grab the latest installer from the [Releases](../../releases) page.
+
+The app requests administrator elevation at launch (UAC prompt). This is required to read and write network configuration.
+
+## About EZ-IP
 
 An IT Utility Suite for managing network adapter settings without memorizing terminal syntax or dealing with multiple applications for common networking tasks. 
 
@@ -39,9 +45,3 @@ Switch between saved address profiles, toggle DHCP, assign static IPs, manage ro
 - **Multi tenant License Key** - Use one license key for multiple installs (Up to 3)
 
 ---
-
-## Download
-
-Grab the latest installer from the [Releases](../../releases) page.
-
-The app requests administrator elevation at launch (UAC prompt). This is required to read and write network configuration.

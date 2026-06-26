@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "1.0.3 Release",
-  "pub_date": "2026-06-25T21:26:24-07:00",
+  "version": "1.0.4",
+  "notes": "Added adapter selection in Scanner",
+  "pub_date": "2026-06-26T17:44:09-05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0MxcEtYS1BlWXF4MTRCR1ZRNEhXYWR4Wi85amU0VnljWGdVUm90Tks2dlRNeFo4YTlxbXM1Ui9xNHNLL0pqTDRoSHRVcmlCQ1YrSHFSc2NBM0FQYUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDkyOTA2CWZpbGU6RVotSVBfMS4wLjNfeDY0LXNldHVwLmV4ZQpGVkJkMktvcXVwaEVHQ3c2NTJoOTB2VHltUDd3MnVJdmVUNVlCc2RhUkdLc3loajN0YjVtdVBYSE1aekphaHF4bUVDd1Q4VFQ5TUsyUk54bHFJa3VEZz09Cg==",
-      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.3/EZ-IP_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0lvcTBpV2k2cm9EOVVSb3UwNW02WUpHa3doOGFoaEttNG1LZkY2ZXhRNnZlK2dpd1l4ZnNZQnRiV0FuT2FzZjlrbm9vOU9DYng4YUlGRk1nMi9EdWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTEwMDE2CWZpbGU6RVotSVBfMS4wLjRfeDY0LXNldHVwLmV4ZQpkUW5NRFJyZFN5VHJ4aGlkdTQ2SVlOV2tyeFd5WE44bXh5SXRwcWZ6Q0VhTkZIc2d4VG5mVm9CK01UMExsZ05mTkx2L0w4T21rNnZoTmd4N3ZKcmFBZz09Cg==",
+      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.4/EZ-IP_1.0.4_x64-setup.exe"
     }
   }
 }

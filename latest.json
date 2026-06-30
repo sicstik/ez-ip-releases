@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Added adapter selection in Scanner",
-  "pub_date": "2026-06-26T17:44:09-05:00",
+  "version": "1.0.5",
+  "notes": "Bug fixes and quick ping added",
+  "pub_date": "2026-06-30T10:50:33-05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0lvcTBpV2k2cm9EOVVSb3UwNW02WUpHa3doOGFoaEttNG1LZkY2ZXhRNnZlK2dpd1l4ZnNZQnRiV0FuT2FzZjlrbm9vOU9DYng4YUlGRk1nMi9EdWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTEwMDE2CWZpbGU6RVotSVBfMS4wLjRfeDY0LXNldHVwLmV4ZQpkUW5NRFJyZFN5VHJ4aGlkdTQ2SVlOV2tyeFd5WE44bXh5SXRwcWZ6Q0VhTkZIc2d4VG5mVm9CK01UMExsZ05mTkx2L0w4T21rNnZoTmd4N3ZKcmFBZz09Cg==",
-      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.4/EZ-IP_1.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0RseGJaWHE3R2U3eUtDNG9GNnhHZFM4aHpCRkdHYUcrMGRyUU1zUkFONjRjRU5aSDVFT3hlQkZJSlhDMWN4SjNFYUxvNk9Kb3ViZGpmazNrVkp5b0FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyODM4OTcxCWZpbGU6RVotSVBfMS4wLjVfeDY0LXNldHVwLmV4ZQplUzNya2ZwazhENUh6SzNoUi9MZ3RhQmNhZThRQTdyZ0RCLzFKRjVwTmlaR1c1cCs3ZWhPc3MxakxXdG9mSXI0Y1ZhOVRzak4ySjVBWjRDSVJJRGRDUT09Cg==",
+      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.5/EZ-IP_1.0.5_x64-setup.exe"
     }
   }
 }

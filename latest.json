@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Bug fix for serial connections",
+  "version": "1.0.7",
+  "notes": "Bug fix for tray icon",
   "pub_date": "2026-07-01T12:50:33-05:00",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0hVQ1pUSmtJRDJ2MEYyWVhGM0lDWFF5cVpDdU9HaG9yTXRqSnA2K09VQ201WFY5TzBYSkUvV3FMZ0tUS3N6c2RRb2FlSjRBbFdUaTBWRno2SEthWEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTI5MTkzCWZpbGU6RVotSVBfMS4wLjZfeDY0LXNldHVwLmV4ZQowWm5SLzAxU1dkQUlMeUdjbU1laXpIa3hNZUduQnUyTnB3TUxUZTBpaldWenFjR1ExWjkxMDZqVVd3VFVJUEU5WUluck5vVlpnSncwQmJ0M0VmVTVEZz09Cg==",
-      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.6/EZ-IP_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0RKZDZYMXFkVllVSVBoUzk4MURFeW55OGlKVUt0cW9Qazk1VGtLU3U2WU85WEc4K01sMVlKbjdiSW54VGtaTldVYSt3dk9CR3k1OHlNbTViN0g5OVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNTcxMDA3CWZpbGU6RVotSVBfMS4wLjdfeDY0LXNldHVwLmV4ZQpmOHo2NnN2Ky9NK2dCeDBPVEpqRys0dDBmNGxRalFuQkRtWTZDSFE0dFNtSURwZU9lUmMwSEozU2JmQUlNMUN3K2dmWjgxaHUrZ242blZPaFhWdlNCZz09Cg==",
+      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.7/EZ-IP_1.0.7_x64-setup.exe"
     }
   }
 }

@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0tLLzNpbGUrU2M5SGJvM3g5eHk2YzBLL3gvQjdKeENDb3dOQnd5ZFA5OHhQdmM5a0dMTW95eHZpdUpSWXFEZFg5VlJ3R0g1cmJTbGYvbGZ4aE5OSkFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzk1NTg2CWZpbGU6RVotSVBfMS4wLjhfeDY0LXNldHVwLmV4ZQpZOHVYSFZxWmV1a2MyL0dMOEhzQ3E5akJMbjk2Q2FuYUszYjhzT3Vzd0F6Y1N1d2NSM21TUFYzNmJqdlpLcGhmMEtBNzNENFgzMmxlLzZyMFFxNXlDQT09Cg==",
-      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.8/EZ-IP_1.0.8_x64-setup.exe"
+      "url": "https://github.com/sicstik/ez-ip-releases/releases/download/v1.0.8/EZ-IP_1.0.8_Windows-x64_setup.exe"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYnR2UEg5aHR4T0d4WFJyUmRNa3Qxak5aYmVhaUQySjcwaDlBRWFnc2labGVjVW8xL2toaUozVEVPVi9jdjNPazFZTFExTENrYzJvUFJlTmw5UTJ4VUpaV3F6c3VkRGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MDU2NDE5CWZpbGU6RVotSVAuYXBwLnRhci5negppL3VwTGNMeXV2d2VHSXNEN1h3dThHT3VNVDRnTHFXVVcvcWhUOUhWaGJXbHNGdEhwRWtaYk9xWG1UZHBiU2dsVEVVVzFCdDVNaXhCYlJ2bG55WGxEQT09Cg==",
